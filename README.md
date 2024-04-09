@@ -1,5 +1,7 @@
 # Data-professional-Survey-Breakdown
 
+In this guided project, I utilized a dataset from a survey of data professionals to gain insights into career transitions within the data profession from diverse backgrounds.
+
 The steps involved in the analysis:
 
 1. Data Extraction: Importing the input file into Power Bi tool.
